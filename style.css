@@ -1,0 +1,1 @@
+* { box-sizing: border-box; } body {margin: 0;}.animate-pulse{animation:pulse 4s infinite;}.animate-bounce{animation:bounce 2s infinite;}@keyframes pulse{0%, 100%{opacity:0.3;}50%{opacity:0.6;}}@media (max-width: 768px){#nav_2dqw8{flex-direction:column;}#main_2dqw2{padding:0 1rem;}}
